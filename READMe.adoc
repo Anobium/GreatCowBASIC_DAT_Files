@@ -1,0 +1,4 @@
+This GIT contains the DAT files for Great Cow BASIC.
+
+# Great Cow BASIC
+
