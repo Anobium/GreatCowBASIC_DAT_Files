@@ -1,0 +1,54 @@
+'GCBASIC/GCGB Chip Data File
+'Chip: 18MACRO
+'Main Format last revised:   14/07/2017
+'Header Format last revised: 28/03/2019
+
+[ChipData]
+Prog=6144
+EEPROM=0
+RAM=384
+I/O=0
+ADC=0
+MaxMHz=40
+IntOsc=0
+Pins=28
+Family=14
+ConfigWords=1
+PSP=0
+MaxAddress=511
+Stacks=31
+UserIDAddress=2097152
+UserIDLength=8
+
+[Interrupts]
+
+[Registers]
+
+[Bits]
+
+[FreeRAM]
+20:7F
+A0:EF
+120:16F
+1A0:1EF
+220:24F
+
+[NoBankRAM]
+70:7F
+
+[Pins-DIP]
+1,MCLR
+9,OSC1
+10,OSC2
+8,Vss
+19,Vss
+20,Vdd
+
+[ASMConfig]
+
+[ConfigMask]
+
+[ConfigOps]
+
+[Config]
+

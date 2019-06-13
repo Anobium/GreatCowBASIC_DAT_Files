@@ -1,0 +1,1898 @@
+18F27Q10 (16) 1/1010
+Missing data in chipdata.csv
+Warning: W103: unusual int osc speed:0 (No OSCCON, Has OSCCON2)
+No pinout found, and could not guess
+Unrecognised interrupt source:            CLC5IE
+Unrecognised interrupt source:            CLC6IE
+Unrecognised interrupt source:            CLC7IE
+Unrecognised interrupt source:            CLC8IE
+Chip data file is suspect
+18F47Q10 (16) 2/1010
+Missing data in chipdata.csv
+Warning: W103: unusual int osc speed:0 (No OSCCON, Has OSCCON2)
+No pinout found, and could not guess
+Unrecognised interrupt source:            CLC5IE
+Unrecognised interrupt source:            CLC6IE
+Unrecognised interrupt source:            CLC7IE
+Unrecognised interrupt source:            CLC8IE
+Chip data file is suspect
+18LF45J50 (16) 3/1010
+No DEBUG config bit!
+16LF874A (14) 4/1010
+16F18456 (15) 5/1010
+Adding CHS bits to ADCON0
+16F1764 (15) 6/1010
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+Adding ADCS bits to ADCON1
+16LF15354 (15) 7/1010
+18F4550 (16) 8/1010
+16LF18875 (15) 9/1010
+Adding CHS bits to ADCON0
+18LF26K40 (16) 10/1010
+18F67K40 (16) 11/1010
+16F913 (14) 12/1010
+18LF8628 (16) 13/1010
+18F46J11 (16) 14/1010
+18F27K42 (16) 15/1010
+Adding CHS bits to ADCON0
+16LF15324 (15) 16/1010
+16F1769 (15) 17/1010
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+Adding ADCS bits to ADCON1
+18F13K22 (16) 18/1010
+Unrecognised interrupt source:            PIE
+RF675F (14) 19/1010
+18F8723 (16) 20/1010
+16LF18425 (15) 21/1010
+Adding CHS bits to ADCON0
+16C55A (12) 22/1010
+18LF44J10 (16) 23/1010
+16F1619 (15) 24/1010
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+16LF726 (14) 25/1010
+18F8410 (16) 26/1010
+MCP19123 (14) 27/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+MCV18E (14) 28/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+16LF1614 (15) 29/1010
+18LF2450 (16) 30/1010
+16C58B (12) 31/1010
+16F876A (14) 32/1010
+16F1704 (15) 33/1010
+16C925 (14) 34/1010
+18LF45J10 (16) 35/1010
+16LF1827 (15) 36/1010
+16LF1503 (15) 37/1010
+Adding ADCS bits to ADCON1
+10F202 (12) 38/1010
+18LF46K22 (16) 39/1010
+16LF1768 (15) 40/1010
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+Adding ADCS bits to ADCON1
+16F723 (14) 41/1010
+16LF18855 (15) 42/1010
+Adding CHS bits to ADCON0
+16LF18876 (15) 43/1010
+Adding CHS bits to ADCON0
+12F1501 (15) 44/1010
+Adding ADCS bits to ADCON1
+16F690 (14) 45/1010
+16LF1779 (15) 46/1010
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+16C67 (14) 47/1010
+18F66J65 (16) 48/1010
+16C770 (14) 49/1010
+16LF18345 (15) 50/1010
+16F18856 (15) 51/1010
+Adding CHS bits to ADCON0
+18F6527 (16) 52/1010
+Bad polarity: shared
+Added missing XINST default (set OFF)
+16LF1509 (15) 53/1010
+Adding ADCS bits to ADCON1
+18LF2685 (16) 54/1010
+16LF1764 (15) 55/1010
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+Adding ADCS bits to ADCON1
+16F1618 (15) 56/1010
+16LF1713 (15) 57/1010
+Adding ADCS bits to ADCON1
+18F4420 (16) 58/1010
+18F84J11 (16) 59/1010
+16LF876A (14) 60/1010
+18F86J72 (16) 61/1010
+No DEBUG config bit!
+16F15356 (15) 62/1010
+18F4321 (16) 63/1010
+12C509 (12) 64/1010
+16CR73 (14) 65/1010
+18F2620 (16) 66/1010
+18LF6627 (16) 67/1010
+18F25K80 (16) 68/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+16F1776 (15) 69/1010
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+16F18876 (15) 70/1010
+Adding CHS bits to ADCON0
+18F86J15 (16) 71/1010
+Bad polarity: shared
+16F726 (14) 72/1010
+16LF18856 (15) 73/1010
+Adding CHS bits to ADCON0
+16C926 (14) 74/1010
+16LF1936 (15) 75/1010
+18LF24J11 (16) 76/1010
+16F19185 (15) 77/1010
+Adding CHS bits to ADCON0
+16C54A (12) 78/1010
+16LF1615 (15) 79/1010
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+16CR64 (14) 80/1010
+18F67J90 (16) 81/1010
+18LF2331 (16) 82/1010
+16LF1824 (15) 83/1010
+18LF23K22 (16) 84/1010
+18F1320 (16) 85/1010
+18F44J11 (16) 86/1010
+MCP19117 (14) 87/1010
+Missing data in chipdata.csv
+Could not build memory map
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            CDSIE
+Chip data file is suspect
+18F252 (16) 88/1010
+16F628 (14) 89/1010
+18LF2610 (16) 90/1010
+18LF8622 (16) 91/1010
+18LF4550 (16) 92/1010
+16F1709 (15) 93/1010
+Adding ADCS bits to ADCON1
+16LF88 (14) 94/1010
+16LF1578 (15) 95/1010
+18LF8410 (16) 96/1010
+18F26J11 (16) 97/1010
+16C73 (14) 98/1010
+16HV785 (14) 99/1010
+18F6525 (16) 100/1010
+18LF4510 (16) 101/1010
+18F66J10 (16) 102/1010
+Bad polarity: shared
+16F84A (14) 103/1010
+16C716 (14) 104/1010
+16F1777 (15) 105/1010
+(R)
+(R)COG1IE            EQU  H'0004'
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)COG1IE            EQU  H'0004'
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)COG1IE            EQU  H'0004'
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)COG1IE            EQU  H'0004'
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+16LF15344 (15) 106/1010
+18F46K40 (16) 107/1010
+16F1773 (15) 108/1010
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+16F753 (14) 109/1010
+16LF1773 (15) 110/1010
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+16LF1823 (15) 111/1010
+16F676 (14) 112/1010
+18LF4431 (16) 113/1010
+MCV18A (14) 114/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+16F631 (14) 115/1010
+12CE674 (14) 116/1010
+18LF24J10 (16) 117/1010
+18F26K42 (16) 118/1010
+Adding CHS bits to ADCON0
+18LF44J11 (16) 119/1010
+12F529T48A (12) 120/1010
+18F45K42 (16) 121/1010
+Adding CHS bits to ADCON0
+16F54 (12) 122/1010
+18LF2580 (16) 123/1010
+16CE625 (14) 124/1010
+18C442 (16) 125/1010
+No DEBUG config bit!
+18F96J94 (16) 126/1010
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+10F322 (14) 127/1010
+12HV609 (14) 128/1010
+16LF18857 (15) 129/1010
+Adding CHS bits to ADCON0
+18F47J53 (16) 130/1010
+No DEBUG config bit!
+16LF1519 (15) 131/1010
+18F2331 (16) 132/1010
+18LF4320 (16) 133/1010
+18F27J53 (16) 134/1010
+No DEBUG config bit!
+16C64 (14) 135/1010
+16F1933 (15) 136/1010
+18F2420 (16) 137/1010
+16F785 (14) 138/1010
+16C54C (12) 139/1010
+18F8585 (16) 140/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+16F873 (14) 141/1010
+18LF6621 (16) 142/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+12LF1840T39A (15) 143/1010
+18F86J94 (16) 144/1010
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+18F2423 (16) 145/1010
+18F2480 (16) 146/1010
+18F25J11 (16) 147/1010
+18F97J60 (16) 148/1010
+18F4455 (16) 149/1010
+18LF46J50 (16) 150/1010
+No DEBUG config bit!
+16C62 (14) 151/1010
+18F448 (16) 152/1010
+Unrecognised interrupt source:            RX0IE
+Unrecognised interrupt source:            RX1IE
+Unrecognised interrupt source:            TX0IE
+Unrecognised interrupt source:            IVRE
+18F26J50 (16) 153/1010
+18F86J11 (16) 154/1010
+16F15376 (15) 155/1010
+16C712 (14) 156/1010
+18LF8393 (16) 157/1010
+16C554 (12) 158/1010
+18F87K90 (16) 159/1010
+Added missing SOSCSEL default (set DIG)
+16F1454 (15) 160/1010
+18F67K22 (16) 161/1010
+Added missing SOSCSEL default (set DIG)
+16F18455 (15) 162/1010
+Adding CHS bits to ADCON0
+16LF1507 (15) 163/1010
+18LF45J11 (16) 164/1010
+16LF1508 (15) 165/1010
+Adding ADCS bits to ADCON1
+18LF25K22 (16) 166/1010
+18F4685 (16) 167/1010
+18F8493 (16) 168/1010
+16LF1933 (15) 169/1010
+18LF2221 (16) 170/1010
+16F1826 (15) 171/1010
+18F87J72 (16) 172/1010
+No DEBUG config bit!
+16F884 (14) 173/1010
+18F44J10 (16) 174/1010
+18F44K20 (16) 175/1010
+12F629 (14) 176/1010
+16LF18323 (15) 177/1010
+16F886 (14) 178/1010
+18F87J50 (16) 179/1010
+18LF6723 (16) 180/1010
+18LF26K22 (16) 181/1010
+10F220 (12) 182/1010
+18F67J10 (16) 183/1010
+Bad polarity: shared
+18F6722 (16) 184/1010
+Bad polarity: shared
+Added missing XINST default (set OFF)
+16CE623 (14) 185/1010
+16F1516 (15) 186/1010
+16F1513 (15) 187/1010
+16F72 (14) 188/1010
+16CR72 (14) 189/1010
+14000 (14) 190/1010
+Missing data in chipdata.csv
+Adding CHS bits to ADCON0
+Unrecognised interrupt source:            WUIE
+Unrecognised interrupt source:            PBIE
+Unrecognised interrupt source:            I2CIE
+Unrecognised interrupt source:            ADCIE
+Unrecognised interrupt source:            OVFIE
+Chip data file is suspect
+16F1579 (15) 191/1010
+16C54 (12) 192/1010
+18F24J50 (16) 193/1010
+18LF4539 (16) 194/1010
+18F26K40 (16) 195/1010
+18F24K22 (16) 196/1010
+18F6628 (16) 197/1010
+16LF1903 (15) 198/1010
+18F85J50 (16) 199/1010
+18F66J50 (16) 200/1010
+18LF66K40 (16) 201/1010
+18F64J11 (16) 202/1010
+12HV752 (14) 203/1010
+MCP19119 (14) 204/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            DCERIE
+Unrecognised interrupt source:            VINIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+16CR926 (14) 205/1010
+(A)Old_and_Legacy             EQU  H'0000'
+(A)Old_and_Legacy             EQU  H'0000'
+(A)Old_and_Legacy             EQU  H'0000'
+(A)Old_and_Legacy             EQU  H'0000'
+Ghost chip, never manufactured
+Chip data file is suspect
+16CR63 (14) 206/1010
+16F526 (12) 207/1010
+16LF722 (14) 208/1010
+16CR54C (12) 209/1010
+18LF4585 (16) 210/1010
+MCP25050 (14) 211/1010
+Missing data in chipdata.csv
+Could not build memory map
+Chip data file is suspect
+18F2320 (16) 212/1010
+16F19195 (15) 213/1010
+Adding CHS bits to ADCON0
+16LF1575 (15) 214/1010
+16F819 (14) 215/1010
+18F6621 (16) 216/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+18F87J94 (16) 217/1010
+No DEBUG config bit!
+Unrecognised interrupt source:            ECCP3IE
+16C58A (12) 218/1010
+18F2680 (16) 219/1010
+16F877A (14) 220/1010
+16F15385 (15) 221/1010
+18F66J11 (16) 222/1010
+18LF45K22 (16) 223/1010
+18LF4620 (16) 224/1010
+MCP19214 (14) 225/1010
+Missing data in chipdata.csv
+Could not build memory map
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            VDDUVIE
+Unrecognised interrupt source:            IVGD2IE
+Unrecognised interrupt source:            IVGD1IE
+Chip data file is suspect
+16F19196 (15) 226/1010
+Adding CHS bits to ADCON0
+16F1829LIN (15) 227/1010
+18F6620 (16) 228/1010
+Bad polarity: shared
+16F1578 (15) 229/1010
+18LF26K42 (16) 230/1010
+Adding CHS bits to ADCON0
+18F248 (16) 231/1010
+Unrecognised interrupt source:            RX0IE
+Unrecognised interrupt source:            RX1IE
+Unrecognised interrupt source:            TX0IE
+Unrecognised interrupt source:            IVRE
+16F887 (14) 232/1010
+18F66J16 (16) 233/1010
+18F86K22 (16) 234/1010
+Added missing SOSCSEL default (set DIG)
+18F25J50 (16) 235/1010
+18F4523 (16) 236/1010
+18LF14K50 (16) 237/1010
+18LF26J11 (16) 238/1010
+16C65 (14) 239/1010
+18LF2539 (16) 240/1010
+18F6680 (16) 241/1010
+16LF1938 (15) 242/1010
+18F47K40 (16) 243/1010
+16LF19155 (15) 244/1010
+Adding CHS bits to ADCON0
+16LF1788 (15) 245/1010
+18F14K22LIN (16) 246/1010
+Unrecognised interrupt source:            PIE
+18LF2520 (16) 247/1010
+18LF13K22 (16) 248/1010
+Unrecognised interrupt source:            PIE
+18F86J10 (16) 249/1010
+Bad polarity: shared
+16LF877A (14) 250/1010
+18F25K22 (16) 251/1010
+18F2439 (16) 252/1010
+18MACRO (14) 253/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+18F4510 (16) 254/1010
+18F86J60 (16) 255/1010
+16LF747 (14) 256/1010
+18F64J90 (16) 257/1010
+16CR57B (12) 258/1010
+18F4515 (16) 259/1010
+16F1939 (15) 260/1010
+18LF67K40 (16) 261/1010
+16F1519 (15) 262/1010
+MCP19118 (14) 263/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            DCERIE
+Unrecognised interrupt source:            VINIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+16F15344 (15) 264/1010
+18F87J60 (16) 265/1010
+16CE624 (14) 266/1010
+MCV283B (14) 267/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+MCP19121 (14) 268/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+16F18446 (15) 269/1010
+Adding CHS bits to ADCON0
+16C711 (14) 270/1010
+16LF767 (14) 271/1010
+18LF4450 (16) 272/1010
+18F25K42 (16) 273/1010
+Adding CHS bits to ADCON0
+18F86J93 (16) 274/1010
+No DEBUG config bit!
+16LF73 (14) 275/1010
+18F458 (16) 276/1010
+Unrecognised interrupt source:            RX0IE
+Unrecognised interrupt source:            RX1IE
+Unrecognised interrupt source:            TX0IE
+Unrecognised interrupt source:            IVRE
+MCP19215 (14) 277/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            VDDUVIE
+Unrecognised interrupt source:            IVGD2IE
+Unrecognised interrupt source:            IVGD1IE
+Chip data file is suspect
+18F66J90 (16) 278/1010
+16F1938 (15) 279/1010
+16F18424 (15) 280/1010
+Adding CHS bits to ADCON0
+18LF8722 (16) 281/1010
+16F616 (14) 282/1010
+18LF6628 (16) 283/1010
+18F2610 (16) 284/1010
+16CR84 (14) 285/1010
+16LF1517 (15) 286/1010
+16LF1789 (15) 287/1010
+16F636 (14) 288/1010
+16F873A (14) 289/1010
+16F1779 (15) 290/1010
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+18F65J10 (16) 291/1010
+Bad polarity: shared
+18LF6310 (16) 292/1010
+18F67J94 (16) 293/1010
+No DEBUG config bit!
+Unrecognised interrupt source:            ECCP3IE
+16C773 (14) 294/1010
+16LF1825 (15) 295/1010
+18F26J13 (16) 296/1010
+No DEBUG config bit!
+18F85J10 (16) 297/1010
+Bad polarity: shared
+18LF24K22 (16) 298/1010
+16C55 (12) 299/1010
+18LF6525 (16) 300/1010
+18LF6620 (16) 301/1010
+Config word for BORV is unclear
+16F15323 (15) 302/1010
+18F45K80 (16) 303/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+18F86J55 (16) 304/1010
+16F15375 (15) 305/1010
+18LF4553 (16) 306/1010
+18F6520 (16) 307/1010
+Bad polarity: shared
+16F77 (14) 308/1010
+MCV08A (14) 309/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+18F8720 (16) 310/1010
+Bad polarity: shared
+MCP25020 (14) 311/1010
+Missing data in chipdata.csv
+Could not build memory map
+Chip data file is suspect
+18F85J94 (16) 312/1010
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+16F18323 (15) 313/1010
+18LF2423 (16) 314/1010
+16LF1828 (15) 315/1010
+18LF47J53 (16) 316/1010
+No DEBUG config bit!
+18LF2525 (16) 317/1010
+16C717 (14) 318/1010
+18F2685 (16) 319/1010
+18F4221 (16) 320/1010
+16F648A (14) 321/1010
+18LF2680 (16) 322/1010
+16LF1782 (15) 323/1010
+12F1822 (15) 324/1010
+16LF1526 (15) 325/1010
+18F1230 (16) 326/1010
+16F87 (14) 327/1010
+18F45J10 (16) 328/1010
+18LF8490 (16) 329/1010
+16LF1939 (15) 330/1010
+10F320 (14) 331/1010
+18F65K40 (16) 332/1010
+16LF1709 (15) 333/1010
+Adding ADCS bits to ADCON1
+Unrecognised interrupt source:            PIE1
+Unrecognised interrupt source:            PIE3
+16F1575 (15) 334/1010
+10F222 (12) 335/1010
+18F26K83 (16) 336/1010
+Added missing XINST default (set OFF)
+Adding CHS bits to ADCON0
+Unrecognised interrupt source:            FIFOFIE
+16F19156 (15) 337/1010
+Adding CHS bits to ADCON0
+18F65J50 (16) 338/1010
+16F1824 (15) 339/1010
+16LF19195 (15) 340/1010
+Adding CHS bits to ADCON0
+18F95J94 (16) 341/1010
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+MCP19128 (14) 342/1010
+Missing data in chipdata.csv
+Could not build memory map
+Bad bit name: TMR4IF
+Bad bit name: TMR1GIF
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            V1UVIE
+Unrecognised interrupt source:            V1OVIE
+Unrecognised interrupt source:            V2UVIE
+Unrecognised interrupt source:            V2OVIE
+Unrecognised interrupt source:            LDIE
+Unrecognised interrupt source:            BTUVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            SSIE
+Unrecognised interrupt source:            VINUVIE
+Unrecognised interrupt source:            VDDUVIE
+Unrecognised interrupt source:            DRUVIE
+Chip data file is suspect
+18F25K20 (16) 343/1010
+16F570 (12) 344/1010
+Unrecognised interrupt source:            CWIE
+16CR65 (14) 345/1010
+18F65J11 (16) 346/1010
+18F4580 (16) 347/1010
+MCP19126 (14) 348/1010
+Missing data in chipdata.csv
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            CDSIE
+Chip data file is suspect
+16C621A (14) 349/1010
+18LF27J53 (16) 350/1010
+No DEBUG config bit!
+18F57K42 (16) 351/1010
+Adding CHS bits to ADCON0
+18F45K22 (16) 352/1010
+18LF2321 (16) 353/1010
+18F452 (16) 354/1010
+16LF1516 (15) 355/1010
+16F1937 (15) 356/1010
+18LF47J13 (16) 357/1010
+No DEBUG config bit!
+MCP19133 (14) 358/1010
+Missing data in chipdata.csv
+Could not build memory map
+Warning: W103: unusual int osc speed:8 (No OSCCON, Has OSCCON2)
+Unrecognised interrupt source:            DMAIE
+Unrecognised interrupt source:            FVRIE
+Unrecognised interrupt source:            OCMUCIE
+Unrecognised interrupt source:            OCMOCIE
+Unrecognised interrupt source:            OCMADCIE
+Unrecognised interrupt source:            OVMUVIE
+Unrecognised interrupt source:            OVMOVIE
+Unrecognised interrupt source:            OVMADCIE
+Unrecognised interrupt source:            ICMOCIE
+Unrecognised interrupt source:            IVMUVIE
+Unrecognised interrupt source:            IVMOVIE
+Unrecognised interrupt source:            IVMADCIE
+Unrecognised interrupt source:            DEMIE
+Unrecognised interrupt source:            TSWIE
+Unrecognised interrupt source:            SWFRQIE
+Chip data file is suspect
+18F86J50 (16) 359/1010
+16F1765 (15) 360/1010
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+Adding ADCS bits to ADCON1
+18LF4680 (16) 361/1010
+18F8620 (16) 362/1010
+Bad polarity: shared
+MCV14A (14) 363/1010
+Missing data in chipdata.csv
+Could not build memory map
+Chip data file is suspect
+18LF1230 (16) 364/1010
+Config word for T1OSCMX_LOW is unclear
+Config word for T1OSCMX_HIGH is unclear
+18F4450 (16) 365/1010
+16F527 (12) 366/1010
+Unrecognised interrupt source:            CWIE
+18F4682 (16) 367/1010
+16CR57A (12) 368/1010
+16F1703 (15) 369/1010
+Adding ADCS bits to ADCON1
+18LF252 (16) 370/1010
+Config word for BORV is unclear
+PS500 (14) 371/1010
+Missing data in chipdata.csv
+Adding CHS bits to ADCON0
+Chip data file is suspect
+16LF18854 (15) 372/1010
+Adding CHS bits to ADCON0
+18F2580 (16) 373/1010
+16LF74 (14) 374/1010
+RF675K (14) 375/1010
+18F25K40 (16) 376/1010
+18LF2682 (16) 377/1010
+18LF1220 (16) 378/1010
+10F200 (12) 379/1010
+18F2539 (16) 380/1010
+18F4539 (16) 381/1010
+16LF1904 (15) 382/1010
+18F85J90 (16) 383/1010
+16C64A (14) 384/1010
+18F86J99 (16) 385/1010
+Ghost chip, never manufactured
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+18LF4420 (16) 386/1010
+18F4520 (16) 387/1010
+12C508 (12) 388/1010
+18F86K90 (16) 389/1010
+Added missing SOSCSEL default (set DIG)
+18LF2220 (16) 390/1010
+18LF2510 (16) 391/1010
+16F76 (14) 392/1010
+16C622A (14) 393/1010
+18F87J90 (16) 394/1010
+16F1829 (15) 395/1010
+18F6493 (16) 396/1010
+16F18855 (15) 397/1010
+Adding CHS bits to ADCON0
+16F1783 (15) 398/1010
+16CR74 (14) 399/1010
+16LF1618 (15) 400/1010
+12F1571 (15) 401/1010
+16F1614 (15) 402/1010
+16LF18344 (15) 403/1010
+16LF15385 (15) 404/1010
+18F24J11 (16) 405/1010
+16LF1824T39A (15) 406/1010
+16F716 (14) 407/1010
+12F1572 (15) 408/1010
+18F66J15 (16) 409/1010
+Bad polarity: shared
+18F85J15 (16) 410/1010
+Bad polarity: shared
+16F639 (14) 411/1010
+16F684 (14) 412/1010
+16F1936 (15) 413/1010
+16F1458 (15) 414/1010
+Adding ADCS bits to ADCON1
+10F206 (12) 415/1010
+18F45K20 (16) 416/1010
+18F97J72 (16) 417/1010
+Ghost chip, never manufactured
+Chip data file is suspect
+16LF1459 (15) 418/1010
+16CR54 (12) 419/1010
+16F74 (14) 420/1010
+18LF66K80 (16) 421/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+18LF27K42 (16) 422/1010
+Adding CHS bits to ADCON0
+16LF1716 (15) 423/1010
+Adding ADCS bits to ADCON1
+16F18425 (15) 424/1010
+Adding CHS bits to ADCON0
+MCP19114 (14) 425/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            CDSIE
+Chip data file is suspect
+18LF4480 (16) 426/1010
+18F8393 (16) 427/1010
+16LF18456 (15) 428/1010
+Adding CHS bits to ADCON0
+18F4410 (16) 429/1010
+12CR509A (12) 430/1010
+12F520 (12) 431/1010
+(A)Product_Not_Released_Legacy             EQU  H'0000'
+(A)Product_Not_Released_Legacy             EQU  H'0000'
+(A)Product_Not_Released_Legacy             EQU  H'0000'
+(A)Product_Not_Released_Legacy             EQU  H'0000'
+Ghost chip, never manufactured
+Chip data file is suspect
+16CR57C (12) 432/1010
+18F84J90 (16) 433/1010
+16LF84A (14) 434/1010
+18LF248 (16) 435/1010
+Config word for BORV is unclear
+Unrecognised interrupt source:            RX0IE
+Unrecognised interrupt source:            RX1IE
+Unrecognised interrupt source:            TX0IE
+Unrecognised interrupt source:            IVRE
+16CR62 (14) 436/1010
+18F6393 (16) 437/1010
+16LF727 (14) 438/1010
+18LF25K50 (16) 439/1010
+Adding CHS bits to ADCON0
+16LF87 (14) 440/1010
+16C557 (12) 441/1010
+12F609 (14) 442/1010
+16F874A (14) 443/1010
+18F242 (16) 444/1010
+18F24K42 (16) 445/1010
+Adding CHS bits to ADCON0
+18F43K20 (16) 446/1010
+18LF45K50 (16) 447/1010
+Adding CHS bits to ADCON0
+16C622 (14) 448/1010
+18F14K22 (16) 449/1010
+Unrecognised interrupt source:            PIE
+18LF8680 (16) 450/1010
+16C620 (14) 451/1010
+16F1508 (15) 452/1010
+Adding ADCS bits to ADCON1
+16LF1778 (15) 453/1010
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+18F25K83 (16) 454/1010
+Added missing XINST default (set OFF)
+Adding CHS bits to ADCON0
+Unrecognised interrupt source:            FIFOFIE
+18F24Q10 (16) 455/1010
+18F25Q10 (16) 456/1010
+16HV540 (14) 457/1010
+Bit NOT_BODEN belongs to OPTION2 which is not defined
+Bit BODL belongs to OPTION2 which is not defined
+Bit SL belongs to OPTION2 which is not defined
+Bit RL belongs to OPTION2 which is not defined
+Bit NOT_SWDTEN belongs to OPTION2 which is not defined
+Bit NOT_PCWU belongs to OPTION2 which is not defined
+Bit BE belongs to OPTION2 which is not defined
+Bit BL belongs to OPTION2 which is not defined
+Bit SWE belongs to OPTION2 which is not defined
+Bit WPC belongs to OPTION2 which is not defined
+18F65J90 (16) 458/1010
+16F1947 (15) 459/1010
+18F4553 (16) 460/1010
+16LF18426 (15) 461/1010
+Adding CHS bits to ADCON0
+18LF6585 (16) 462/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+16C56 (12) 463/1010
+18F65J94 (16) 464/1010
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+16LF1829 (15) 465/1010
+18LF8520 (16) 466/1010
+Config word for BORV is unclear
+16F19197 (15) 467/1010
+(A)Old_and_Legacy             EQU  H'0000'
+(A)Old_and_Legacy             EQU  H'0000'
+(A)Old_and_Legacy             EQU  H'0000'
+(A)Old_and_Legacy             EQU  H'0000'
+Could not build memory map
+Adding CHS bits to ADCON0
+Chip data file is suspect
+18F65K22 (16) 468/1010
+Added missing SOSCSEL default (set DIG)
+18LF47K40 (16) 469/1010
+16LF84 (14) 470/1010
+18F87J10 (16) 471/1010
+Bad polarity: shared
+16F19155 (15) 472/1010
+Adding CHS bits to ADCON0
+18LF458 (16) 473/1010
+Config word for BORV is unclear
+Unrecognised interrupt source:            RX0IE
+Unrecognised interrupt source:            RX1IE
+Unrecognised interrupt source:            TX0IE
+Unrecognised interrupt source:            IVRE
+16F88 (14) 474/1010
+16LF870 (14) 475/1010
+18F2431 (16) 476/1010
+18LF4439 (16) 477/1010
+MCP25025 (14) 478/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+18LF4321 (16) 479/1010
+16F1716 (15) 480/1010
+Adding ADCS bits to ADCON1
+16HV616 (14) 481/1010
+18LF4423 (16) 482/1010
+18F13K50 (16) 483/1010
+18C452 (16) 484/1010
+No DEBUG config bit!
+MCV442B (14) 485/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+16C620A (14) 486/1010
+18F25J10 (16) 487/1010
+16F1825 (15) 488/1010
+16F688 (14) 489/1010
+18F24K50 (16) 490/1010
+Adding CHS bits to ADCON0
+12F1840 (15) 491/1010
+18F4331 (16) 492/1010
+18LF24K50 (16) 493/1010
+Adding CHS bits to ADCON0
+16LF877 (14) 494/1010
+16C77 (14) 495/1010
+16F19176 (15) 496/1010
+Adding CHS bits to ADCON0
+18LF6393 (16) 497/1010
+18LF24K42 (16) 498/1010
+Adding CHS bits to ADCON0
+16F1786 (15) 499/1010
+18F63J11 (16) 500/1010
+16F1455 (15) 501/1010
+18F2525 (16) 502/1010
+16C771 (14) 503/1010
+16C56A (12) 504/1010
+18F8627 (16) 505/1010
+Bad polarity: shared
+Added missing XINST default (set OFF)
+16LF874 (14) 506/1010
+18LF4458 (16) 507/1010
+16C662 (14) 508/1010
+18F1220 (16) 509/1010
+16LF1512 (15) 510/1010
+18LF8390 (16) 511/1010
+16C924 (14) 512/1010
+MCV443B (14) 513/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+12F508 (12) 514/1010
+16LF15323 (15) 515/1010
+16LF723 (14) 516/1010
+10LF322 (14) 517/1010
+16F1934 (15) 518/1010
+16F18326 (15) 519/1010
+18LF24J50 (16) 520/1010
+No DEBUG config bit!
+16LF18325 (15) 521/1010
+18C242 (16) 522/1010
+No DEBUG config bit!
+18F66K90 (16) 523/1010
+Added missing SOSCSEL default (set DIG)
+18F46J53 (16) 524/1010
+No DEBUG config bit!
+16LF1784 (15) 525/1010
+18LF6490 (16) 526/1010
+16F84 (14) 527/1010
+16F73 (14) 528/1010
+18F14K50 (16) 529/1010
+16F19186 (15) 530/1010
+Adding CHS bits to ADCON0
+18F8525 (16) 531/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+18LF2431 (16) 532/1010
+MCP19132 (14) 533/1010
+Missing data in chipdata.csv
+Warning: W103: unusual int osc speed:8 (No OSCCON, Has OSCCON2)
+Unrecognised interrupt source:            DMAIE
+Unrecognised interrupt source:            FVRIE
+Unrecognised interrupt source:            OCMUCIE
+Unrecognised interrupt source:            OCMOCIE
+Unrecognised interrupt source:            OCMADCIE
+Unrecognised interrupt source:            OVMUVIE
+Unrecognised interrupt source:            OVMOVIE
+Unrecognised interrupt source:            OVMADCIE
+Unrecognised interrupt source:            ICMOCIE
+Unrecognised interrupt source:            IVMUVIE
+Unrecognised interrupt source:            IVMOVIE
+Unrecognised interrupt source:            IVMADCIE
+Unrecognised interrupt source:            DEMIE
+Unrecognised interrupt source:            TSWIE
+Unrecognised interrupt source:            SWFRQIE
+Chip data file is suspect
+16C73A (14) 534/1010
+16LF1708 (15) 535/1010
+18F87J11 (16) 536/1010
+18F27J13 (16) 537/1010
+No DEBUG config bit!
+18F2450 (16) 538/1010
+18F87K22 (16) 539/1010
+Added missing SOSCSEL default (set DIG)
+18F1330 (16) 540/1010
+16LF1777 (15) 541/1010
+(R)
+(R)COG1IE            EQU  H'0004'
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)COG1IE            EQU  H'0004'
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)COG1IE            EQU  H'0004'
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)COG1IE            EQU  H'0004'
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+(R)
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+16C642 (14) 542/1010
+18F8527 (16) 543/1010
+Bad polarity: shared
+Added missing XINST default (set OFF)
+16F18444 (15) 544/1010
+Adding CHS bits to ADCON0
+16LF15345 (15) 545/1010
+16C61 (14) 546/1010
+18LF46J13 (16) 547/1010
+No DEBUG config bit!
+16LF720 (14) 548/1010
+16LF1455 (15) 549/1010
+18LF8493 (16) 550/1010
+MCP19124 (14) 551/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            CDSIE
+Chip data file is suspect
+18LF25K80 (16) 552/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+18F26K20 (16) 553/1010
+18LF25K40 (16) 554/1010
+18F85K22 (16) 555/1010
+Added missing SOSCSEL default (set DIG)
+MCP19110 (14) 556/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            DCERIE
+Unrecognised interrupt source:            VINIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+16F1713 (15) 557/1010
+Adding ADCS bits to ADCON1
+16C433 (14) 558/1010
+16LF19156 (15) 559/1010
+Adding CHS bits to ADCON0
+16C782 (14) 560/1010
+18F65K90 (16) 561/1010
+Added missing SOSCSEL default (set DIG)
+18F4220 (16) 562/1010
+18LF14K22 (16) 563/1010
+Unrecognised interrupt source:            PIE
+18F2550 (16) 564/1010
+18F6585 (16) 565/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+16F15354 (15) 566/1010
+RF509AF (12) 567/1010
+16LF721 (14) 568/1010
+18F8722 (16) 569/1010
+Bad polarity: shared
+16F15324 (15) 570/1010
+16C62A (14) 571/1010
+16F747 (14) 572/1010
+18LF65K40 (16) 573/1010
+18LF2480 (16) 574/1010
+16HV753 (14) 575/1010
+18F67J11 (16) 576/1010
+RF675H (14) 577/1010
+18LF46K42 (16) 578/1010
+Adding CHS bits to ADCON0
+16LF1769 (15) 579/1010
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+Adding ADCS bits to ADCON1
+18F87J93 (16) 580/1010
+No DEBUG config bit!
+16F1787 (15) 581/1010
+18LF4682 (16) 582/1010
+16F1719 (15) 583/1010
+Adding ADCS bits to ADCON1
+18LF44J50 (16) 584/1010
+No DEBUG config bit!
+18LF8525 (16) 585/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+18LF55K42 (16) 586/1010
+Adding CHS bits to ADCON0
+18LF13K50 (16) 587/1010
+16C63 (14) 588/1010
+16F1788 (15) 589/1010
+16F883 (14) 590/1010
+18F2455 (16) 591/1010
+18F66J94 (16) 592/1010
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+16F1847 (15) 593/1010
+16C54B (12) 594/1010
+16F870 (14) 595/1010
+12F510 (12) 596/1010
+16LF1554 (15) 597/1010
+16F1717 (15) 598/1010
+Adding ADCS bits to ADCON1
+16LF1937 (15) 599/1010
+16LF1783 (15) 600/1010
+16C63A (14) 601/1010
+16F882 (14) 602/1010
+18F24J10 (16) 603/1010
+16LF15313 (15) 604/1010
+18F23K22 (16) 605/1010
+16LF18444 (15) 606/1010
+Adding CHS bits to ADCON0
+16F18445 (15) 607/1010
+Adding CHS bits to ADCON0
+18C601 (16) 608/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+No DEBUG config bit!
+18F96J72 (16) 609/1010
+Ghost chip, never manufactured
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+Chip data file is suspect
+18LF6410 (16) 610/1010
+18F8310 (16) 611/1010
+18LF6622 (16) 612/1010
+12HV615 (14) 613/1010
+12LF1571 (15) 614/1010
+18LF4520 (16) 615/1010
+16LF15386 (15) 616/1010
+16LF19185 (15) 617/1010
+Adding CHS bits to ADCON0
+18F8490 (16) 618/1010
+16F1778 (15) 619/1010
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+16LF15355 (15) 620/1010
+16C745 (14) 621/1010
+16F1527 (15) 622/1010
+18F67K90 (16) 623/1010
+Added missing SOSCSEL default (set DIG)
+18F6622 (16) 624/1010
+Bad polarity: shared
+Added missing XINST default (set OFF)
+18LF26K83 (16) 625/1010
+Added missing XINST default (set OFF)
+Adding CHS bits to ADCON0
+Unrecognised interrupt source:            FIFOFIE
+16HV610 (14) 626/1010
+16F722A (14) 627/1010
+16LF1947 (15) 628/1010
+16CR77 (14) 629/1010
+18F46Q10 (16) 630/1010
+Missing data in chipdata.csv
+Warning: W103: unusual int osc speed:0 (No OSCCON, Has OSCCON2)
+Unrecognised interrupt source:            CLC5IE
+Unrecognised interrupt source:            CLC6IE
+Unrecognised interrupt source:            CLC7IE
+Unrecognised interrupt source:            CLC8IE
+Chip data file is suspect
+16F707 (14) 631/1010
+18F8680 (16) 632/1010
+Bad polarity: shared
+16C774 (14) 633/1010
+18LF2515 (16) 634/1010
+16LF1619 (15) 635/1010
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+18LF45K80 (16) 636/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+18F6723 (16) 637/1010
+16LF19175 (15) 638/1010
+Adding CHS bits to ADCON0
+16LF1559 (15) 639/1010
+18LF6722 (16) 640/1010
+12CE519 (14) 641/1010
+18LF2458 (16) 642/1010
+18LF4410 (16) 643/1010
+18F27K40 (16) 644/1010
+16F18877 (15) 645/1010
+Adding CHS bits to ADCON0
+18LF2585 (16) 646/1010
+18F26K80 (16) 647/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+16F1509 (15) 648/1010
+Adding ADCS bits to ADCON1
+18LF57K42 (16) 649/1010
+Adding CHS bits to ADCON0
+16F677 (14) 650/1010
+16F15313 (15) 651/1010
+18F46K42 (16) 652/1010
+Adding CHS bits to ADCON0
+16CR620A (14) 653/1010
+18LF6493 (16) 654/1010
+16LF1826 (15) 655/1010
+18F47K42 (16) 656/1010
+Adding CHS bits to ADCON0
+16C65B (14) 657/1010
+18F2523 (16) 658/1010
+16LF819 (14) 659/1010
+MCP19125 (14) 660/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            CDSIE
+Chip data file is suspect
+18LF24K40 (16) 661/1010
+18LF4331 (16) 662/1010
+16LF18446 (15) 663/1010
+Adding CHS bits to ADCON0
+18F96J65 (16) 664/1010
+MCP19122 (14) 665/1010
+Missing data in chipdata.csv
+Could not build memory map
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+16C74 (14) 666/1010
+16C710 (14) 667/1010
+16F59 (12) 668/1010
+18C658 (16) 669/1010
+No DEBUG config bit!
+16C52 (12) 670/1010
+16F689 (14) 671/1010
+16F627A (14) 672/1010
+18LF452 (16) 673/1010
+Config word for BORV is unclear
+16LF19197 (15) 674/1010
+Could not build memory map
+Adding CHS bits to ADCON0
+Chip data file is suspect
+18F43K22 (16) 675/1010
+12C671 (14) 676/1010
+18LF1330 (16) 677/1010
+Config word for T1OSCMX_LOW is unclear
+Config word for T1OSCMX_HIGH is unclear
+16LF1717 (15) 678/1010
+Adding ADCS bits to ADCON1
+12F529T39A (12) 679/1010
+16LF1906 (15) 680/1010
+18C252 (16) 681/1010
+No DEBUG config bit!
+16C72 (14) 682/1010
+18LF4525 (16) 683/1010
+16LF1946 (15) 684/1010
+18LF46J11 (16) 685/1010
+18F56K42 (16) 686/1010
+Adding CHS bits to ADCON0
+18F86J90 (16) 687/1010
+16C765 (14) 688/1010
+16LF777 (14) 689/1010
+12F519 (12) 690/1010
+18LF56K42 (16) 691/1010
+Adding CHS bits to ADCON0
+18LF46K40 (16) 692/1010
+18F442 (16) 693/1010
+16F777 (14) 694/1010
+18F66J99 (16) 695/1010
+Ghost chip, never manufactured
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+16LF873 (14) 696/1010
+16F15386 (15) 697/1010
+16F721 (14) 698/1010
+16C72A (14) 699/1010
+16F1705 (15) 700/1010
+Adding ADCS bits to ADCON1
+16F18857 (15) 701/1010
+Adding CHS bits to ADCON0
+18F96J99 (16) 702/1010
+Ghost chip, never manufactured
+Odd config word number: -7
+Unrecognised interrupt source:            ECCP3IE
+Chip data file is suspect
+16LF19176 (15) 703/1010
+Adding CHS bits to ADCON0
+16F727 (14) 704/1010
+16LF19196 (15) 705/1010
+Adding CHS bits to ADCON0
+16LF1786 (15) 706/1010
+16F18325 (15) 707/1010
+16LF18445 (15) 708/1010
+Adding CHS bits to ADCON0
+18F6390 (16) 709/1010
+16F1459 (15) 710/1010
+18F2220 (16) 711/1010
+16C66 (14) 712/1010
+18LF4610 (16) 713/1010
+18F66J60 (16) 714/1010
+18F83J11 (16) 715/1010
+18LF45K40 (16) 716/1010
+18LF44K22 (16) 717/1010
+16F1823 (15) 718/1010
+18F258 (16) 719/1010
+Unrecognised interrupt source:            RX0IE
+Unrecognised interrupt source:            RX1IE
+Unrecognised interrupt source:            TX0IE
+Unrecognised interrupt source:            IVRE
+18LF8620 (16) 720/1010
+Config word for BORV is unclear
+18F66J93 (16) 721/1010
+No DEBUG config bit!
+18LF442 (16) 722/1010
+Config word for BORV is unclear
+16LF1579 (15) 723/1010
+18F4680 (16) 724/1010
+16F722 (14) 725/1010
+18F2410 (16) 726/1010
+MCV201B (14) 727/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CWIE
+Chip data file is suspect
+16C715 (14) 728/1010
+16C74B (14) 729/1010
+16F1827 (15) 730/1010
+16LF15356 (15) 731/1010
+16F1518 (15) 732/1010
+18F4431 (16) 733/1010
+18F45K40 (16) 734/1010
+12F509 (12) 735/1010
+12CE518 (14) 736/1010
+18LF6720 (16) 737/1010
+Config word for BORV is unclear
+18F97J94 (16) 738/1010
+No DEBUG config bit!
+Unrecognised interrupt source:            ECCP3IE
+18F4480 (16) 739/1010
+18F45J50 (16) 740/1010
+18LF6527 (16) 741/1010
+18F2585 (16) 742/1010
+Added missing XINST default (set OFF)
+16LF18346 (15) 743/1010
+18F4423 (16) 744/1010
+16F1707 (15) 745/1010
+Adding ADCS bits to ADCON1
+18F85K90 (16) 746/1010
+Added missing SOSCSEL default (set DIG)
+18LF2455 (16) 747/1010
+12LF1612 (15) 748/1010
+16CR58A (12) 749/1010
+12LF1572 (15) 750/1010
+16F1784 (15) 751/1010
+18F45K50 (16) 752/1010
+Adding CHS bits to ADCON0
+16F1782 (15) 753/1010
+16F1574 (15) 754/1010
+16C84 (14) 755/1010
+16F916 (14) 756/1010
+16F18854 (15) 757/1010
+Adding CHS bits to ADCON0
+18F67J60 (16) 758/1010
+16F874 (14) 759/1010
+18LF25K42 (16) 760/1010
+Adding CHS bits to ADCON0
+18C858 (16) 761/1010
+No DEBUG config bit!
+12F615 (14) 762/1010
+18F67J93 (16) 763/1010
+No DEBUG config bit!
+12F1612 (15) 764/1010
+16LF873A (14) 765/1010
+16CR54B (12) 766/1010
+16LF723A (14) 767/1010
+16F1512 (15) 768/1010
+18F66K80 (16) 769/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+16F914 (14) 770/1010
+18F6720 (16) 771/1010
+Bad polarity: shared
+18F8622 (16) 772/1010
+Bad polarity: shared
+Added missing XINST default (set OFF)
+16LF627A (14) 773/1010
+16F917 (14) 774/1010
+16LF648A (14) 775/1010
+16F1615 (15) 776/1010
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+(R)OSFIE           EQU  H'0007'
+16F1718 (15) 777/1010
+Adding ADCS bits to ADCON1
+18F46K80 (16) 778/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+18F4585 (16) 779/1010
+Added missing XINST default (set OFF)
+16F1828 (15) 780/1010
+16LF83 (14) 781/1010
+16F18324 (15) 782/1010
+Warning: W103: unusual int osc speed:16 (No OSCCON, Has OSCCON2)
+16F630 (14) 783/1010
+16LF1707 (15) 784/1010
+Adding ADCS bits to ADCON1
+18F45Q10 (16) 785/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CLC5IE
+Unrecognised interrupt source:            CLC6IE
+Unrecognised interrupt source:            CLC7IE
+Unrecognised interrupt source:            CLC8IE
+Chip data file is suspect
+MCV202B (14) 786/1010
+Missing data in chipdata.csv
+Warning: W102: unusual int osc speed:32 (Has OSCCON, No SPLLEN)
+Adding ADCS bits to ADCON1
+Chip data file is suspect
+16F18346 (15) 787/1010
+RF509AG (12) 788/1010
+18LF8527 (16) 789/1010
+18LF258 (16) 790/1010
+Config word for BORV is unclear
+Unrecognised interrupt source:            RX0IE
+Unrecognised interrupt source:            RX1IE
+Unrecognised interrupt source:            TX0IE
+Unrecognised interrupt source:            IVRE
+18F65K80 (16) 791/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+12F683 (14) 792/1010
+16LF1458 (15) 793/1010
+Adding ADCS bits to ADCON1
+16LF1566 (15) 794/1010
+12C509A (12) 795/1010
+16F1708 (15) 796/1010
+18F4525 (16) 797/1010
+18F6490 (16) 798/1010
+16C432 (14) 799/1010
+16F83 (14) 800/1010
+16LF876 (14) 801/1010
+16LF627 (14) 802/1010
+18F2520 (16) 803/1010
+18LF47K42 (16) 804/1010
+Adding CHS bits to ADCON0
+16LF18424 (15) 805/1010
+Adding CHS bits to ADCON0
+18F6627 (16) 806/1010
+Bad polarity: shared
+Added missing XINST default (set OFF)
+16LF1902 (15) 807/1010
+18LF4685 (16) 808/1010
+12LF1840T48A (15) 809/1010
+16F1613 (15) 810/1010
+16CR54A (12) 811/1010
+16LF18326 (15) 812/1010
+12F617 (14) 813/1010
+18F4610 (16) 814/1010
+18F46K22 (16) 815/1010
+18LF8310 (16) 816/1010
+16LF1719 (15) 817/1010
+Adding ADCS bits to ADCON1
+16F876 (14) 818/1010
+MCV28A (14) 819/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+18LF2320 (16) 820/1010
+16F818 (14) 821/1010
+16LF1934 (15) 822/1010
+16LF724 (14) 823/1010
+12LF1552 (15) 824/1010
+18LF45K42 (16) 825/1010
+Adding CHS bits to ADCON0
+16LF1513 (15) 826/1010
+18F2458 (16) 827/1010
+16F1503 (15) 828/1010
+Adding ADCS bits to ADCON1
+18F44K22 (16) 829/1010
+16LF18455 (15) 830/1010
+Adding CHS bits to ADCON0
+16F877 (14) 831/1010
+16CR76 (14) 832/1010
+18LF6390 (16) 833/1010
+16C57 (12) 834/1010
+16F1946 (15) 835/1010
+18F46J50 (16) 836/1010
+18LF6520 (16) 837/1010
+Config word for BORV is unclear
+MCP19625 (14) 838/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            DCERIE
+Unrecognised interrupt source:            VINIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+18F4320 (16) 839/1010
+18LF1320 (16) 840/1010
+16F1768 (15) 841/1010
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+Adding ADCS bits to ADCON1
+18F65J15 (16) 842/1010
+Bad polarity: shared
+18F8628 (16) 843/1010
+18F2682 (16) 844/1010
+16F506 (12) 845/1010
+16LF1613 (15) 846/1010
+18LF4580 (16) 847/1010
+16LF1705 (15) 848/1010
+Adding ADCS bits to ADCON1
+18LF8627 (16) 849/1010
+16C781 (14) 850/1010
+12LF1822 (15) 851/1010
+18F23K20 (16) 852/1010
+16C71 (14) 853/1010
+16LF15375 (15) 854/1010
+16F687 (14) 855/1010
+16F685 (14) 856/1010
+12LF1840 (15) 857/1010
+16LF872 (14) 858/1010
+16F1517 (15) 859/1010
+16LF19186 (15) 860/1010
+Adding CHS bits to ADCON0
+18LF2439 (16) 861/1010
+16LF1765 (15) 862/1010
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+(R)COG1IE            EQU  H'0005' 
+Adding ADCS bits to ADCON1
+16LF1787 (15) 863/1010
+18F2553 (16) 864/1010
+16F18426 (15) 865/1010
+Adding CHS bits to ADCON0
+18LF242 (16) 866/1010
+Config word for BORV is unclear
+16LF1518 (15) 867/1010
+16LF1574 (15) 868/1010
+16F724 (14) 869/1010
+16CR56A (12) 870/1010
+18F46K20 (16) 871/1010
+16C76 (14) 872/1010
+18LF46J53 (16) 873/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+No DEBUG config bit!
+18LF46K80 (16) 874/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+18LF2550 (16) 875/1010
+16F57 (12) 876/1010
+16F18345 (15) 877/1010
+16CR83 (14) 878/1010
+16F505 (12) 879/1010
+18F46J13 (16) 880/1010
+No DEBUG config bit!
+16F627 (14) 881/1010
+16F18344 (15) 882/1010
+16LF18877 (15) 883/1010
+Adding CHS bits to ADCON0
+MCP25055 (14) 884/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+18LF6680 (16) 885/1010
+18F26K22 (16) 886/1010
+18F83J90 (16) 887/1010
+16F18875 (15) 888/1010
+Adding CHS bits to ADCON0
+18LF2553 (16) 889/1010
+18LF2523 (16) 890/1010
+18LF4221 (16) 891/1010
+16F18313 (15) 892/1010
+18C801 (16) 893/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+No DEBUG config bit!
+18LF4455 (16) 894/1010
+18LF26J53 (16) 895/1010
+No DEBUG config bit!
+18F26J53 (16) 896/1010
+No DEBUG config bit!
+12F635 (14) 897/1010
+16F946 (14) 898/1010
+16F15325 (15) 899/1010
+18F26Q10 (16) 900/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CLC5IE
+Unrecognised interrupt source:            CLC6IE
+Unrecognised interrupt source:            CLC7IE
+Unrecognised interrupt source:            CLC8IE
+Chip data file is suspect
+18LF43K22 (16) 901/1010
+18F4458 (16) 902/1010
+18F45J11 (16) 903/1010
+16LF818 (14) 904/1010
+18LF25J11 (16) 905/1010
+16C73B (14) 906/1010
+16F1526 (15) 907/1010
+18F25K50 (16) 908/1010
+Adding CHS bits to ADCON0
+MCV20USB (14) 909/1010
+Missing data in chipdata.csv
+Chip data file is suspect
+16F871 (14) 910/1010
+10F204 (12) 911/1010
+16F628A (14) 912/1010
+16C505 (12) 913/1010
+18F66J55 (16) 914/1010
+12F752 (14) 915/1010
+16C57C (12) 916/1010
+16F872 (14) 917/1010
+18F24K20 (16) 918/1010
+18LF448 (16) 919/1010
+Config word for BORV is unclear
+Unrecognised interrupt source:            RX0IE
+Unrecognised interrupt source:            RX1IE
+Unrecognised interrupt source:            TX0IE
+Unrecognised interrupt source:            IVRE
+16F1507 (15) 920/1010
+16F720 (14) 921/1010
+12C508A (12) 922/1010
+16LF1907 (15) 923/1010
+MCP19111 (14) 924/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            DCERIE
+Unrecognised interrupt source:            VINIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+18F2510 (16) 925/1010
+18F8621 (16) 926/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+18F6310 (16) 927/1010
+18LF8723 (16) 928/1010
+16F1789 (15) 929/1010
+18LF4515 (16) 930/1010
+MCV282B (14) 931/1010
+Missing data in chipdata.csv
+Could not build memory map
+Warning: W102: unusual int osc speed:32 (Has OSCCON, No SPLLEN)
+Chip data file is suspect
+16F737 (14) 932/1010
+16LF871 (14) 933/1010
+16LF1527 (15) 934/1010
+18F85J11 (16) 935/1010
+18F8390 (16) 936/1010
+18LF2410 (16) 937/1010
+16CR58B (12) 938/1010
+16C621 (14) 939/1010
+18LF26J13 (16) 940/1010
+No DEBUG config bit!
+16C74A (14) 941/1010
+16LF1847 (15) 942/1010
+18F4620 (16) 943/1010
+18F6410 (16) 944/1010
+18LF8720 (16) 945/1010
+Config word for BORV is unclear
+18LF27J13 (16) 946/1010
+No DEBUG config bit!
+16LF1454 (15) 947/1010
+18F66K40 (16) 948/1010
+16LF18324 (15) 949/1010
+Warning: W103: unusual int osc speed:16 (No OSCCON, Has OSCCON2)
+18F55K42 (16) 950/1010
+Adding CHS bits to ADCON0
+16LF1718 (15) 951/1010
+Adding ADCS bits to ADCON1
+18LF2420 (16) 952/1010
+18F8520 (16) 953/1010
+Bad polarity: shared
+18F4439 (16) 954/1010
+16C62B (14) 955/1010
+18LF26K80 (16) 956/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+12C672 (14) 957/1010
+18F2221 (16) 958/1010
+18F67J50 (16) 959/1010
+16LF18313 (15) 960/1010
+18LF8621 (16) 961/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+16LF722A (14) 962/1010
+16LF1704 (15) 963/1010
+16LF1776 (15) 964/1010
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+(R)COG1IE            EQU  H'0004'
+Adding CHS bits to ADCON0
+Adding ADCS bits to ADCON1
+16LF1703 (15) 965/1010
+Adding ADCS bits to ADCON1
+16F15355 (15) 966/1010
+10LF320 (14) 967/1010
+18LF25K83 (16) 968/1010
+Added missing XINST default (set OFF)
+Adding CHS bits to ADCON0
+Unrecognised interrupt source:            FIFOFIE
+16LF15376 (15) 969/1010
+18F63J90 (16) 970/1010
+16LF77 (14) 971/1010
+PS810 (14) 972/1010
+Missing data in chipdata.csv
+Adding CHS bits to ADCON0
+Unrecognised interrupt source:            ASIIE
+Unrecognised interrupt source:            AOFIE
+Chip data file is suspect
+16LF628A (14) 973/1010
+16C923 (14) 974/1010
+18LF4220 (16) 975/1010
+18F86J65 (16) 976/1010
+18F44J50 (16) 977/1010
+18F2515 (16) 978/1010
+16C558 (12) 979/1010
+MCP19120 (14) 980/1010
+Missing data in chipdata.csv
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OCIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            UVIE
+Chip data file is suspect
+12F675 (14) 981/1010
+18F24K40 (16) 982/1010
+16LF707 (14) 983/1010
+18LF26J50 (16) 984/1010
+No DEBUG config bit!
+16F723A (14) 985/1010
+16F767 (14) 986/1010
+16F610 (14) 987/1010
+12CE673 (14) 988/1010
+18F96J60 (16) 989/1010
+18LF4523 (16) 990/1010
+12LF1501 (15) 991/1010
+Adding ADCS bits to ADCON1
+16C65A (14) 992/1010
+16LF628 (14) 993/1010
+16LF15325 (15) 994/1010
+18LF25J50 (16) 995/1010
+No DEBUG config bit!
+16F15345 (15) 996/1010
+18LF27K40 (16) 997/1010
+16F19175 (15) 998/1010
+Adding CHS bits to ADCON0
+18F86J16 (16) 999/1010
+18LF25J10 (16) 1000/1010
+18F66K22 (16) 1001/1010
+Added missing SOSCSEL default (set DIG)
+18LF8585 (16) 1002/1010
+Warning: W101: unusual int osc speed:0 (Has OSCCON, Has SPLLEN/PLLEN)
+18F2321 (16) 1003/1010
+18F47J13 (16) 1004/1010
+No DEBUG config bit!
+MCP19116 (14) 1005/1010
+Missing data in chipdata.csv
+Could not build memory map
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            CDSIE
+Chip data file is suspect
+18LF2620 (16) 1006/1010
+16LF76 (14) 1007/1010
+18LF65K80 (16) 1008/1010
+No DEBUG config bit!
+Added missing SOSCSEL default (set DIG)
+MCP19115 (14) 1009/1010
+Missing data in chipdata.csv
+Could not build memory map
+Unrecognised interrupt source:            CC1IE
+Unrecognised interrupt source:            CC2IE
+Unrecognised interrupt source:            IOCE
+Unrecognised interrupt source:            UVLOIE
+Unrecognised interrupt source:            OVLOIE
+Unrecognised interrupt source:            DRUVIE
+Unrecognised interrupt source:            OVIE
+Unrecognised interrupt source:            OTIE
+Unrecognised interrupt source:            CDSIE
+Chip data file is suspect
+16LF1567 (15) 1010/1010
